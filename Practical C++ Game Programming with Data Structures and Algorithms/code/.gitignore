@@ -1,0 +1,24 @@
+#Ignore folders
+
+KnightDemo/x64
+Knight/x64
+Knight/Knight/x64
+Knight/build/raylib/obj/x64
+Knight/build/raylib/bin/x64
+Knight/.vs
+
+#Ignore files
+*.log
+*.tlog
+*.iobj
+*.pdb
+*.ipdb
+*.obj
+!resources/models/obj/*.obj
+*.recipe
+*.ilk
+*.idb
+*.vcproj.filters
+*.vcproj.user
+*.vcxproj.FileListAbsolute.txt
+
